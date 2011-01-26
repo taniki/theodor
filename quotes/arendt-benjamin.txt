@@ -1,0 +1,8 @@
+title: Walter Benjamin
+author:
+    - first: Hannah
+      last: Arendt
+---
+page: 86--87
+
+Pour autant que le passé est transmis comme tradition, il fait autorité. Pour autant que l'autorité se présente historiquement, elle devient tradition. Walter Benjamin savait que la rupture de la tradition et la perte de l'autorité survenues à son époque étaient irréparables, et il concluait qu'il lui fallait découvrir un style nouveau de rapport au passé. En cela, il devint maître le jour où il découvrit qu'à la transmissibilité du passé, s'était substituée sa "citabilité", à son autorité cette force inquiétante de s'installer par bribes dans le présent et de l'arracher à cette "fausse paix" qu'il devait à une complaisance béate.
