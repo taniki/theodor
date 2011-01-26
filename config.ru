@@ -1,4 +1,4 @@
-require "Walter"
+require "walter"
 
 # Rack config
 use Rack::Static, :urls => ['/css', '/js'], :root => 'public'
