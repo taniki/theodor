@@ -1,7 +1,5 @@
 builder
-yaml
 erb
-less
 rdiscount
 sinatra
 walter
