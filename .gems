@@ -1,5 +1,4 @@
 builder
-erb
 rdiscount
 sinatra
 walter
